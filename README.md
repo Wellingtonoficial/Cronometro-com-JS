@@ -6,4 +6,4 @@ _No atual momento da data de hoje (11/06/2021), estou me habituando  com essa li
 
 
 ### Vou deixar o link logo a baixo para você testar  e me dizer oq achou !
-[Link](https://wellingtonoficial.github.io/Cronometro-com-JS/)
+[Acesse](https://wellingtonoficial.github.io/Cronometro-com-JS/)
